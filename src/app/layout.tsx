@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <body className={twMerge(inter.className, "flex min-h-full flex-col")}>
-        {children}
+        <main className="w-full flex-auto">{children}</main>
       </body>
     </html>
   );

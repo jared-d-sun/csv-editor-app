@@ -5,7 +5,7 @@ export default function Editor() {
     <Container>
       <div className="mt-4">
         <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
-          CSV Editor
+          CSV Editor Page
         </h1>
       </div>
     </Container>
